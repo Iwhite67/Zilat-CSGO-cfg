@@ -41,5 +41,5 @@ Installation du Daemon Ptero
 
 ###Installation CFG
 
-    git clone https://github.com/Iwhite67/Zilat-CSGO-cfg.git /srv/daemon-data/id_serv/csgo
-    nano /srv/daemon-data/'id_serv'/csgo/csgo/server.cfg
+    git clone https://github.com/Iwhite67/Zilat-CSGO-cfg.git /srv/daemon-data/csgo
+    cp -r csgo/ 'id_serv'/csgo
